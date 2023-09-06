@@ -12,7 +12,7 @@ Data Scientist | ML Engineer | Python | SQL | Data-driven decisions | AI-Powered
 🌐 I thrive in collaborative environments and continuously stay updated with the latest data science and ML advancements. 
 👨‍💻 Let's connect to explore how I can help your organization leverage data for success.
 
-*   🌍  I'm based in Kenaya,
+*   🌍  I'm based in Kenya,
 *   ✉️  You can contact me at [okwarojona@gmail.com](mailto:okwarojona@gmail.com)
 *   🧠  I'm learning new advancements in ML and data science to stay at the forefront of innovation.
 *   🤝  I'm open to collaborating on Python🐍, Machine Learning🤖, Data Science🥼, Data Engineering🧑, Computer Vision🖥️, NLP🤍, or tackling Business Problems🚀### Skills 
