@@ -26,7 +26,6 @@ Data Scientist | ML Engineer | Python | SQL | Data-driven decisions | AI-Powered
     <a href="https://www.github.com/okwarojona" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </a>
-    
     <a href="https://www.linkedin.com/in/jonathan-okwaro-a09b60258/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </a>
