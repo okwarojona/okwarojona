@@ -49,7 +49,5 @@ Data Scientist | ML Engineer | Python | SQL | Data-driven decisions | AI-Powered
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=okwarojona&stroke=ffffff&background=581c87&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-<a href="http://www.github.com/okwarojona">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=okwarojona&bg_color=581c87&color=ffffff&line=84cc16&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+
 
