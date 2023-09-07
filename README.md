@@ -10,12 +10,14 @@ Data Scientist | ML Engineer | Python | SQL | Data-driven decisions | AI-Powered
 
 💡 I excel at translating data into actionable insights that drive substantial improvements.
 🌐 I thrive in collaborative environments and continuously stay updated with the latest data science and ML advancements. 
+
 👨‍💻 Let's connect to explore how I can help your organization leverage data for success.
 
 *   🌍  I'm based in Kenya,
 *   ✉️  You can contact me at [okwarojona@gmail.com](mailto:okwarojona@gmail.com)
 *   🧠  I'm learning new advancements in ML and data science to stay at the forefront of innovation.
-*   🤝  I'm open to collaborating on Python🐍, Machine Learning🤖, Data Science🥼, Data Engineering🧑, Computer Vision🖥️, NLP🤍, or tackling Business Problems🚀### Skills 
+*   🤝  I'm open to collaborating on Python🐍, Machine Learning🤖, Data Science🥼, Data Engineering🧑, Computer Vision🖥️, NLP🤍, or tackling Business Problems🚀
+*   ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
                     </p>
